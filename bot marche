@@ -1,0 +1,26 @@
+
+
+{
+    "⚠️LISEZ LE FICHIER INSCRUCTION.MD AVANT DE COMPLETER LE CONFIG": "⚠️(ouvrire avec un éditeur de text comme sublime text, notepad++... ou ici: ",https://github.com/boweb-bot/bot-self
+   
+
+    "token":  ".", "user_settings": {"locale": "fr", "theme": "dark",
+    "prefix":  "//",
+    "image":  "le lien de l'image à mettre dans les embeds",
+    "color":  "RANDOM",
+    "discord":  "BVW_BOWEB #6682 ",
+    "nsfw": "on ou pas ",
+    "nitro_claimer": "on ou impossible probleme",
+    "multi_status": ["multistream1",  "multistream2",  "multistream3"],
+    
+
+    "application_id": "",
+    "imagerpc": "nom de l'image",
+    "title": "",
+    "details": "boweb self bot",
+    "state": "state rich présence",
+    "largetext": "text de la grande l'image",
+    "smalltext": "text de la petite image",
+    "sizeplayer": "1",
+    "sizeplayermax": "1"
+           
